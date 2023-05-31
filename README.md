@@ -1,4 +1,4 @@
-### Hi there 👋
+한림대 23학번 재학중인 학부생입니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=haken82)](https://solved.ac/haken82/)
 <!--
