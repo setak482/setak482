@@ -1,1 +1,2 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=haken82)](https://solved.ac/haken82)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=setak482&layout=Demo&theme=gruvbox)
